@@ -41,7 +41,15 @@
       <fieldset>
         <legend>Do you want to subscribe for newsletter?</legend>
         <label><input type="radio" name='newsletter' value='Yes'>Yes</label>
-        <label><input type="radio" name='newsletter' value='No'>No</label>
+        <label><input type="radio" name='newsletter' value='No'>No</label></br>
+        <label><input type="checkbox" name='agree' value='yep' checked>I agree</label>
+      </fieldset>
+      <fieldset>
+        <legend>Number, range, password, etc.</legend>
+        <label>First field<input type="number" name='number' value='5'></label>
+        <label>Tel:<input type="tel" name='phone'></label>
+        <label>Password<input type="password" name='pass' placeholder="your password"></label>
+        <label>Range<input type="range" name='range'min='0' max='100' step='5'></label>
       </fieldset>
       </form>
     </article>
