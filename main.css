@@ -2,3 +2,8 @@
   font-style: italic; }
   .aboutme__header {
     text-decoration: underline; }
+
+.job-experience {
+  background-color: hotpink; }
+  .job-experience__header {
+    background-color: blue; }

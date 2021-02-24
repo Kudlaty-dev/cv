@@ -4,9 +4,9 @@
   "description": "",
   "main": "script.js",
   "scripts": {
+    "sassy": "npx node-sass -w main.scss main.css",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "node-sass": "node-sass --output-style compressed -o dist/css src/scss"
-  },
+     },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kudlaty-dev/cv.git"
@@ -21,5 +21,4 @@
   "devDependencies": {
     "node-sass": "^5.0.0"
   }
-  
 }

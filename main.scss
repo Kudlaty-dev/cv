@@ -4,3 +4,10 @@
         text-decoration: underline;
     }
 }
+
+.job-experience {
+    background-color: hotpink;
+    &__header {
+        background-color: blue;
+    }
+}
