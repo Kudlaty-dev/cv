@@ -1,0 +1,23 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kudlaty-dev/cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kudlaty-dev/cv/issues"
+  },
+  "homepage": "https://github.com/Kudlaty-dev/cv#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
