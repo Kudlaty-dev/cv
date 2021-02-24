@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {},
   "scripts": {
-    "sassy": "npx node-sass -w main.scss main.css",
-    "test": "echo \"Error: no test specified\" && exit 1",
-     },
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kudlaty-dev/cv.git"
@@ -17,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/Kudlaty-dev/cv/issues"
   },
-  "homepage": "https://github.com/Kudlaty-dev/cv#readme",
-  "devDependencies": {
-    "node-sass": "^5.0.0"
-  }
+  "homepage": "https://github.com/Kudlaty-dev/cv#readme"
 }
